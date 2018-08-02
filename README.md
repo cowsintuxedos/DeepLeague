@@ -65,7 +65,7 @@ You can install Conda using the guide from  the [official docs](https://conda.io
 git clone https://github.com/farzaa/DeepLeague.git
 # create the new env
 conda env create -f requirements.yml
-source activate DeepLeague
+source activate DeepLeague2
 
 cd DeepLeague/YAD2K
 
